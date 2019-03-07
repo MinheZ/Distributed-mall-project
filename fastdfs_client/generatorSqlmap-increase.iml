@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/lib/log4j-1.2.16.jar!/" />
+    <libelement value="jar://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/lib/mybatis-3.2.3.jar!/" />
+    <libelement value="jar://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/lib/mybatis-generator-core-1.3.2.jar!/" />
+    <libelement value="jar://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/lib/mysql-connector-java-5.1.28-bin.jar!/" />
+    <libelement value="jar://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/lib/ojdbc14.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/bin" />
+    <exclude-output />
+    <content url="file://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase">
+      <sourceFolder url="file://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="module-library" exported="">
+      <library name="log4j-1.2.16.jar">
+        <CLASSES>
+          <root url="jar://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/lib/log4j-1.2.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="mybatis-3.2.3.jar">
+        <CLASSES>
+          <root url="jar://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/lib/mybatis-3.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="mybatis-generator-core-1.3.2.jar">
+        <CLASSES>
+          <root url="jar://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/lib/mybatis-generator-core-1.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/讲课内容--/mybatis-最新/逆向工程/mybatis代码生成/mybatis-generator-core-1.3.2-bundle/mybatis-generator-core-1.3.2/lib/mybatis-generator-core-1.3.2-sources.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="mysql-connector-java-5.1.28-bin.jar">
+        <CLASSES>
+          <root url="jar://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/lib/mysql-connector-java-5.1.28-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="ojdbc14.jar">
+        <CLASSES>
+          <root url="jar://F:/JAVA/2017黑马JAVA视频/就业班+Hadoop大数据/【阶段17】淘淘商城综合项目/day02_框架搭建&amp;dubbo&amp;zookeeper/淘淘第二天讲义/升级版逆向工程/generatorSqlmap-increase/lib/ojdbc14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

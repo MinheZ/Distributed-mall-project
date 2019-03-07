@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="taotaocommon" />
+        <module name="taotaocontentinterface" />
+        <module name="taotaocontentservice" />
+        <module name="taotaomanagerdao" />
+        <module name="taotaomanagerinterface" />
+        <module name="taotaomanagerpojo" />
+        <module name="taotaomanagerservice" />
+        <module name="taotaomanagerweb" />
+        <module name="taotaoportalweb" />
+        <module name="taotaosearchinterface" />
+        <module name="taotaosearchservice" />
+        <module name="taotaosearchweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastdfs_client" target="1.5" />
+      <module name="taotao-common" target="1.8" />
+      <module name="taotaocommon" target="1.8" />
+      <module name="taotaocontent" target="1.8" />
+      <module name="taotaocontentinterface" target="1.8" />
+      <module name="taotaocontentservice" target="1.8" />
+      <module name="taotaomanager" target="1.8" />
+      <module name="taotaomanagerdao" target="1.8" />
+      <module name="taotaomanagerinterface" target="1.8" />
+      <module name="taotaomanagerpojo" target="1.8" />
+      <module name="taotaomanagerservice" target="1.8" />
+      <module name="taotaomanagerweb" target="1.8" />
+      <module name="taotaoparent" target="1.8" />
+      <module name="taotaoportalweb" target="1.8" />
+      <module name="taotaosearch" target="1.8" />
+      <module name="taotaosearchinterface" target="1.8" />
+      <module name="taotaosearchservice" target="1.8" />
+      <module name="taotaosearchweb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
